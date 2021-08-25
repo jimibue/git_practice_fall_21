@@ -1,6 +1,7 @@
 ## add minus subtract multiply
 
 def add(num1,num2)
+  # and I fix a bug
   num1 + num2
 end
 
