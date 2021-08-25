@@ -13,3 +13,8 @@ def minus(num1,num2)
   num1 - num2
 end
 puts minus(1,1)
+
+def times(num1,num2)
+  num1 * num2
+end
+puts times(1,1)
